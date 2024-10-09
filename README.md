@@ -58,4 +58,4 @@ You should see output including a line similar to the following:
 Server running on port: 3000
 ```
 
-This port is configured in the environment file `.env`. Once running, HTTP requests via `curl` or the Browser may be issued to the endpoint `/events`, for instance `http://localhost:3000/events`.
+This port is configured in the environment file `.env`. Once running, HTTP requests via `curl` or the Browser may be issued to the endpoint `/events`, for instance `http://localhost:3000/events`.# DBCalendar
